@@ -2,43 +2,20 @@
 
 ### Full Stack Developer
 
-I build scalable, real-world applications with a strong focus on backend systems, performance, and clean architecture. Currently sharpening problem-solving skills and engineering depth to transition into a production-ready developer.
+I build scalable, real-world applications with a focus on backend systems, performance, and clean architecture. Currently leveling up through consistent building and deep problem-solving.
 
 ---
 
-## About
+## ⚡ Profile Highlights
 
-* Building **end-to-end web applications** with real-world use cases
-* Learning **system design, backend architecture, and performance optimization**
-* Practicing **data structures & algorithms**
-* Focused on becoming a **high-impact software engineer**
-
----
-
-## Collaboration
-
-* Open to **meaningful open-source contributions**
-* Interested in working on **practical, problem-solving products**
-* Prioritizing **consistency, execution, and long-term growth**
+* Building **end-to-end production-ready applications**
+* Strong focus on **backend engineering & system design**
+* Practicing **DSA with C++ for problem-solving depth**
+* Goal: Become a **high-impact software engineer**
 
 ---
 
-## Core Expertise
-
-* Frontend: React, Next.js, Tailwind
-* Backend: Node.js, Express
-* APIs: REST architecture, authentication flows
-* Databases: MongoDB, PostgreSQL, MySQL
-
----
-
-## Contact
-
-* Email: [chauhan.sumit3012@gmail.com](mailto:chauhan.sumit3012@gmail.com)
-
----
-
-## Connect
+## 🌐 Connect
 
 <p align="left">
 <a href="https://github.com/SumitChauhan-co" target="blank">
@@ -54,7 +31,20 @@ I build scalable, real-world applications with a strong focus on backend systems
 
 ---
 
-## Tech Stack
+## 📊 GitHub Insights
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SumitChauhan-co&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitChauhan-co&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitChauhan-co&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -88,7 +78,13 @@ I build scalable, real-world applications with a strong focus on backend systems
 
 ---
 
-## Mindset
+## 🧠 Engineering Mindset
 
 > Discipline over motivation.
 > Build consistently. Ship real products. Improve relentlessly.
+
+---
+
+## 📫 Contact
+
+* Email: [chauhan.sumit3012@gmail.com](mailto:chauhan.sumit3012@gmail.com)
