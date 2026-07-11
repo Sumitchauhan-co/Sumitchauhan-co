@@ -1,56 +1,50 @@
-# Hi, I'm Sumit Chauhan
+<div align="center">
 
-### Full Stack Developer
+# 👋 Hi, I'm Sumit Chauhan
 
-I build scalable, real-world applications with a focus on backend systems, performance, and clean architecture. Currently leveling up through consistent building and deep problem-solving.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Engineering+Enthusiast;Learning+DevOps+%7C+Generative+AI;Building+Production-Ready+Applications" alt="Typing SVG" />
 
----
+<p>
+Building scalable applications with a strong focus on backend engineering,
+clean architecture, performance, and solving real-world problems.
+</p>
 
-## ⚡ Profile Highlights
+![](https://komarev.com/ghpvc/?username=SumitChauhan-co&style=for-the-badge&color=blueviolet)
 
-* Building **end-to-end production-ready applications**
-* Strong focus on **backend engineering & system design**
-* Practicing **DSA with C++ for problem-solving depth**
-* Goal: Become a **high-impact software engineer**
-
----
-
-## 🌐 Connect
-
-<p align="left">
-<a href="https://github.com/SumitChauhan-co" target="blank">
-<img src="https://skillicons.dev/icons?i=github" height="40" width="40" />
+<p>
+<a href="https://github.com/SumitChauhan-co">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/sumit-chauhan-10679a384" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+
+<a href="https://linkedin.com/in/sumit-chauhan-10679a384">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/SUMITCH433" target="blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="40" width="40" />
+
+<a href="https://twitter.com/SUMITCH433">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:chauhan.sumit3012@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SumitChauhan-co&show_icons=true&theme=tokyonight&hide=cpp&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SumitChauhan-co&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitChauhan-co&layout=compact&theme=tokyonight&hide=cpp&hide_border=true" />
-</p>
-
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+</p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,vite" />
 </p>
 
 ### Backend
@@ -59,33 +53,70 @@ I build scalable, real-world applications with a focus on backend systems, perfo
 <img src="https://skillicons.dev/icons?i=nodejs,express,appwrite" />
 </p>
 
-### Databases
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-### Tools & Environment
+### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,postman,figma" />
+<img src="https://skillicons.dev/icons?i=docker,linux,githubactions,vercel,render" />
 </p>
 
-### Programming Languages
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,py" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 </p>
 
 ---
 
-## 🧠 Engineering Mindset
+# 📊 GitHub Analytics
 
-> Discipline over motivation.
-> Build consistently. Ship real products. Improve relentlessly.
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SumitChauhan-co&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=SumitChauhan-co&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitChauhan-co&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📫 Contact
+# 📈 Contribution Graph
 
-* Email: [chauhan.sumit3012@gmail.com](mailto:chauhan.sumit3012@gmail.com)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitChauhan-co&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 💡 Engineering Philosophy
+
+> *Consistency beats intensity.*
+>
+> Build. Learn. Improve. Repeat.
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:chauhan.sumit3012@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/sumit-chauhan-10679a384">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SumitChauhan-co">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
