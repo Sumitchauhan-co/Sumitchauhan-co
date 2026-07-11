@@ -77,11 +77,11 @@ clean architecture, performance, and solving real-world problems.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SumitChauhan-co&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sumit.vercel.app/api?username=SumitChauhan-co&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=SumitChauhan-co&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitChauhan-co&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sumit.vercel.app/api/top-langs/?username=SumitChauhan-co&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -90,7 +90,7 @@ clean architecture, performance, and solving real-world problems.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitChauhan-co&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph-sumit.vercel.app/graph?username=SumitChauhan-co&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
