@@ -91,85 +91,75 @@ Currently exploring **System Design**, **DevOps**, **Cloud**, and **Generative A
 
 # 🚀 Featured Projects
 
----
-
-## 🌐 Locus
-
-<div align="center">
-
-### Modern Social Media Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
 <a href="https://locus-space.vercel.app">
-<img src="./assets/images/locus.webp" width="100%">
+<img src="./assets/images/locus.webp" alt="Locus"/>
 </a>
 
-<br><br>
+### 🌐 Locus
+Modern social media platform.
 
+<p>
 <a href="https://locus-space.vercel.app">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-success?style=flat-square"/>
 </a>
 
 <a href="https://github.com/SumitChauhan-co/locus">
-<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
 </a>
+</p>
 
-</div>
+</td>
 
-Locus is a modern social media platform focused on delivering a smooth, responsive experience. Users can authenticate, create posts, engage with content, and manage their profiles through a clean and scalable architecture.
-
----
-
-## 🔐 ProtoAuth
-
-<div align="center">
-
-### Authentication Infrastructure for Modern Applications
+<td width="50%" valign="top">
 
 <a href="https://protoauth.vercel.app">
-<img src="./assets/images/protoAuth.webp" width="100%">
+<img src="./assets/images/protoAuth.webp" alt="ProtoAuth"/>
 </a>
 
-<br><br>
+### 🔐 ProtoAuth
+Authentication infrastructure.
 
+<p>
 <a href="https://protoauth.vercel.app">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-success?style=flat-square"/>
 </a>
 
 <a href="https://github.com/SumitChauhan-co/protoAuth">
-<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
 </a>
+</p>
 
-</div>
+</td>
+</tr>
 
-ProtoAuth is an authentication-focused application demonstrating secure login flows, protected routes, session handling, and reusable authentication architecture for modern web applications.
+<tr>
 
----
-
-## 🗳️ Choicely
-
-<div align="center">
-
-### Create Polls. Gather Opinions. Make Better Decisions.
+<td width="50%" valign="top">
 
 <a href="https://choicely-real.vercel.app">
-<img src="./assets/images/choicely.webp" width="100%">
+<img src="./assets/images/choicely.webp" alt="Choicely"/>
 </a>
 
-<br><br>
+### 🗳️ Choicely
+Interactive polling platform.
 
+<p>
 <a href="https://choicely-real.vercel.app">
-<img src="https://img.shields.io/badge/🚀_Live_Demo-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Live-success?style=flat-square"/>
 </a>
 
 <a href="https://github.com/SumitChauhan-co/choicely">
-<img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/>
 </a>
+</p>
 
-</div>
-
-Choicely is a modern polling platform where users can create interactive polls, participate in community voting, and instantly visualize results through a responsive and intuitive interface.
-
----
+</td>
+</tr>
+</table>
 
 # 📊 GitHub Analytics
 
