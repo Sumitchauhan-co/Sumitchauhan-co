@@ -165,8 +165,6 @@ Interactive polling platform.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sumit.vercel.app/api?username=SumitChauhan-co&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="49%" src="https://streak-stats.demolab.com?user=SumitChauhan-co&theme=tokyonight&hide_border=true"/>
 
 <br><br>
