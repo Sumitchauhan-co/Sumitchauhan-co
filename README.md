@@ -39,7 +39,7 @@
 
 ---
 
-# `01` — About Me
+# `01` — 🚀 About Me
 
 ### 👋 Hi, I'm Sumit
 **Full Stack Developer | Backend & System Design Enthusiast**
@@ -62,7 +62,7 @@ I build software from the ground up—from **responsive interfaces and secure AP
 
 ---
 
-# `02` — Technology
+# `02` — 🛠️ Technology
 
 ### 💻 Languages
 
@@ -198,7 +198,7 @@ I build software from the ground up—from **responsive interfaces and secure AP
 
 ---
 
-# `03` — Featured Work
+# `03` — ✨ Featured Work
 
 <p align="center">
   <b>Things I've actually built, deployed and learned from.</b>
@@ -387,7 +387,99 @@ I build software from the ground up—from **responsive interfaces and secure AP
 <img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github" />
 </a>
 
+---
+<!-- RAG Matrix -->
+
+<div align="center">
+
+<a href="https://project-exhibition-delta.vercel.app/">
+  <img src="./assets/images/rag_matrix.webp" width="92%" alt="RAG Matrix — Automated RAG Evaluation Suite"/>
+</a>
+
+<br/><br/>
+
+<h1>🧠 RAG Matrix</h1>
+
+<p>
+  <b>Automated evaluation and benchmarking for Retrieval-Augmented Generation systems.</b>
+</p>
+
+<p>
+  Measure how your RAG pipeline performs across
+  <b>context recall</b>, <b>faithfulness</b>, <b>latency</b>, and
+  <b>LLM evaluation metrics</b>.
+</p>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white"/>
+</p>
+
 </div>
+
+<br/>
+
+## ⚡ What makes RAG Matrix interesting
+
+```text
+🧪 Automated RAG Evaluation
+   └── Evaluate generated answers against retrieved context
+       using measurable quality metrics.
+
+📊 Multi-Dimensional Benchmarking
+   └── Compare context recall, faithfulness, latency,
+       and other evaluation signals across executions.
+
+🤖 Multi-LLM Evaluation
+   └── Run the same evaluation workflow across different
+       models and providers for meaningful comparison.
+
+📈 Evaluation Analytics
+   └── Turn raw evaluation results into readable metrics,
+       trends, and visual comparisons.
+
+⚙️ Async Execution
+   └── Long-running evaluations execute independently
+       while the interface tracks their progress.
+
+🔔 Real-Time Notifications
+   └── Get notified when an evaluation completes,
+       including browser and mobile notification support.
+```
+
+<br/>
+
+<div align="center">
+
+<a href="https://project-exhibition-delta.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-58A6FF?style=for-the-badge" alt="Live Demo"/>
+</a>
+
+ 
+
+<a href="https://github.com/SumitChauhan-co/project-exhibition">
+  <img src="https://img.shields.io/badge/💻_SOURCE_CODE-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>
+Built for developers who want to <b>measure</b> their RAG systems instead of guessing how well they perform.
+</sub>
+
+</div>
+
 
 ---
 
@@ -421,7 +513,7 @@ I build software from the ground up—from **responsive interfaces and secure AP
 
 ---
 
-# `06` — Engineering Philosophy
+# `06` — 🧩 Engineering Philosophy
 
 <div align="center">
 
@@ -438,7 +530,7 @@ I build software from the ground up—from **responsive interfaces and secure AP
 
 ---
 
-# `07` — Let's Connect
+# `07` — 💬 Let's Connect
 
 <div align="center">
 
